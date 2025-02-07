@@ -1,4 +1,4 @@
-//Code to find gcd of two strings
+//Code to find greatest common divisor of two strings
 #include<iostream>
 #include<string>
 using namespace std;
